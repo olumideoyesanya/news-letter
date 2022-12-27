@@ -1,0 +1,212 @@
+<mjml>
+<mj-head>
+    <mj-style>
+        .footer-links{
+            color: #888888;
+            text-decoration: none;
+            font-size: 12px;
+            
+        }
+    </mj-style>
+</mj-head>
+    <mj-body background-color="#dfdfdf">
+        <mj-section background-color="#ff2d55">
+            <mj-column>
+                <mj-image height="30px" width="30px" align="left" src="https://i.postimg.cc/vTc2CfDb/N-pic.png" alt="" />
+                <mj-text line-height="32px" letter-spacing="-1.5px" font-size="27px" font-family="'SFProDisplayHeavy',Helvetica,sans-serif;">
+                    <b style="color:#fff">WEEKEND READING</b> 
+                </mj-text>
+                <mj-text color="#fff" font-size="14px" line-height="16px" font-family="'SFProDisplayHeavy',Helvetica,sans-serif;">
+                    Must-read stories, chosen by the Apple News editors
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#fff">
+            <mj-column>
+                <mj-text  line-height="17px" letter-spacing=".6px" font-weight="700" font-size="16px" font-family="'ProximaNovaBlack',Helvetica,sans-serif;">
+                    <p style="color:#000;">BETTER LIVING</p>
+                </mj-text>
+                <mj-include path="./components/single-red-line.mjml" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="0" background-color="#fff">
+            <mj-column>
+                <mj-image padding-top="0" src="https://i.postimg.cc/zGn2mJDb/clock-img.jpg" alt="" />
+                <mj-image align="left" width="88px" height="17px" src="https://i.postimg.cc/ydfrfv1L/news.png" alt="" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#fff">
+            <mj-column>
+                <mj-text font-family="'DrukTextMedium',Helvetica,sans-serif;" padding-top="0">
+                    <a style="color:#000;font-size:36px;font-weight:700;line-height:36px;text-decoration:none" href="https://apple.news/PQzeocL_EdAFyCRggEcXID7?articleList=A7DIXcEggRCyFAdE_LcoezQ,AS7Cxtap6QJurSj30xCHaZg,AHcZnnMuZQY-Rt0UGPZTA7A,ArHxYSRqkSGOaevf-EAP07g,AlqHrImpDSg6b55hB3inHJQ,AkDYk5LpYSteae_o7ABuu6w,ARhKUtLuCRAqVmAP9Wx9Y8A&amp;campaign_id=E106&amp;campaign_type=6234b017-f5ea-4398-beef-054fba12a444&amp;creative_id=daily_cover_story-3:coverStory">Six simple, science-backed habits to transform your health</a>
+                </mj-text>
+                <mj-text color="#000" font-size="16px" line-height="19px" font-family="'PracticeBook',Georgia,serif;">
+                    A few small lifestyle tweaks can make a big difference to the way you feel.
+                </mj-text>
+                <mj-text font-size="12px"font-weight="700" letter-spacing=".6px" line-height="12px" color="#7c7c7c" font-family="'ProximaNovaBold',Helvetica,sans-serif;">
+                    BBC SCIENCE FOCUS MAGAZINE
+                </mj-text>
+                <mj-include path="./components/grey-line.mjml" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#fff">
+            <mj-column>
+                <mj-text letter-spacing=".6px" line-height="18px" font-weight="700" font-size="16px" font-family="'ProximaNovaBlack',Helvetica,sans-serif;">
+                    COVID-19
+                </mj-text>
+                <mj-include path="./components/single-red-line.mjml" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#fff">
+            <mj-column>
+                <mj-image src="https://i.postimg.cc/65410rDh/covid-pic.jpg" alt="" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#fff">
+            <mj-column>
+                <mj-text font-family="'DrukTextMedium',Helvetica,sans-serif;" padding-top="0">
+                    <a style="color:#000;font-size:36px;font-weight:700;line-height:36px;text-decoration:none" href="https://apple.news/PQzeocL_EdAFyCRggEcXID7?articleList=A7DIXcEggRCyFAdE_LcoezQ,AS7Cxtap6QJurSj30xCHaZg,AHcZnnMuZQY-Rt0UGPZTA7A,ArHxYSRqkSGOaevf-EAP07g,AlqHrImpDSg6b55hB3inHJQ,AkDYk5LpYSteae_o7ABuu6w,ARhKUtLuCRAqVmAP9Wx9Y8A&amp;campaign_id=E106&amp;campaign_type=6234b017-f5ea-4398-beef-054fba12a444&amp;creative_id=daily_cover_story-3:coverStory">The year without germs changed kids</a>
+                </mj-text>
+                <mj-text color="#000" font-size="16px" line-height="19px" font-family="'PracticeBook',Georgia,serif;">
+                    After spending their formative years in the bleach-everything era, ‘COVID kids’ will have different microbiomes. Is that bad?
+                </mj-text>
+                <mj-text font-size="12px"font-weight="700" letter-spacing=".6px" line-height="12px" color="#7c7c7c" font-family="'ProximaNovaBold',Helvetica,sans-serif;">
+                    THE ATLANTIC
+                </mj-text>
+                <mj-include path="./components/grey-line.mjml" />
+            </mj-column>
+        </mj-section>
+         <mj-section background-color="#fff">
+            <mj-column>
+                <mj-text letter-spacing=".6px" line-height="18px" font-weight="700" font-size="16px" font-family="'ProximaNovaBlack',Helvetica,sans-serif;">
+                    FEATURED ISSUE
+                </mj-text>
+                <mj-include path="./components/single-red-line.mjml" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#fff">
+            <mj-column>
+                <mj-image src="https://i.postimg.cc/TP0kwCDT/selena.jpg" alt="" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#fff">
+            <mj-column>
+                <mj-text font-family="'DrukTextMedium',Helvetica,sans-serif;" padding-top="0">
+                    <a style="color:#000;font-size:36px;font-weight:700;line-height:36px;text-decoration:none" href="https://apple.news/PQzeocL_EdAFyCRggEcXID7?articleList=A7DIXcEggRCyFAdE_LcoezQ,AS7Cxtap6QJurSj30xCHaZg,AHcZnnMuZQY-Rt0UGPZTA7A,ArHxYSRqkSGOaevf-EAP07g,AlqHrImpDSg6b55hB3inHJQ,AkDYk5LpYSteae_o7ABuu6w,ARhKUtLuCRAqVmAP9Wx9Y8A&amp;campaign_id=E106&amp;campaign_type=6234b017-f5ea-4398-beef-054fba12a444&amp;creative_id=daily_cover_story-3:coverStory">Selena Gomez is being honest</a>
+                </mj-text>
+                <mj-text color="#000" font-size="16px" line-height="19px" font-family="'PracticeBook',Georgia,serif;">
+                    She has wrestled with bipolar disorder, life-threatening illness, and tabloid hell. Now she’s ready to tell her story.
+                </mj-text>
+                <mj-text font-size="12px"font-weight="700" letter-spacing=".6px" line-height="12px" color="#7c7c7c" font-family="'ProximaNovaBold',Helvetica,sans-serif;">
+                    ROLLING STONE
+                </mj-text>
+                <mj-include path="./components/grey-line.mjml" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#fff">
+            <mj-column>
+                <mj-text letter-spacing=".6px" line-height="18px" font-weight="700" font-size="16px" font-family="'ProximaNovaBlack',Helvetica,sans-serif;">
+                    STORIES WE’RE READING
+                </mj-text>
+                <mj-include path="./components/single-red-line.mjml" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#fff">
+            <mj-column>
+                <mj-image padding-top="0" src="https://i.postimg.cc/yd6bXwHJ/celin-pic.jpg" alt="" />
+
+            </mj-column>
+            <mj-column padding="0">
+                <mj-text padding-top="0" color="#000" font-size="16px" line-height="19px" font-family="'PracticeBook',Georgia,serif;">
+                    Céline Dion has stiff-person syndrome. Here’s what to know about this extremely rare disease.
+                </mj-text>
+                <mj-text font-size="12px"font-weight="700" letter-spacing=".6px" line-height="12px" color="#7c7c7c" font-family="'ProximaNovaBold',Helvetica,sans-serif;">
+                    BUZZFEED NEWS
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="0" background-color="#fff">
+            <mj-column>
+                <mj-include path="./components/grey-line.mjml" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="0" background-color="#fff">
+            <mj-column>
+                <mj-image padding-top="0" src="https://i.postimg.cc/3NVfhNDp/monkey.jpg" alt="" />
+
+            </mj-column>
+            <mj-column padding="0">
+                <mj-text padding-top="0" color="#000" font-size="16px" line-height="19px" font-family="'PracticeBook',Georgia,serif;">
+                    The Ikea monkey was spotted 10 years ago. This is where he is now.
+                </mj-text>
+                <mj-text font-size="12px"font-weight="700" letter-spacing=".6px" line-height="12px" color="#7c7c7c" font-family="'ProximaNovaBold',Helvetica,sans-serif;">
+                    CTV NEWS
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="0" background-color="#fff">
+            <mj-column>
+                <mj-include path="./components/grey-line.mjml" />
+            </mj-column>
+        </mj-section> 
+        <mj-section padding-top="0" background-color="#fff">
+            <mj-column>
+                <mj-image padding-top="0" src="https://i.postimg.cc/qB55ybZR/movie-pic.jpg" alt="" />
+
+            </mj-column>
+            <mj-column padding="0">
+                <mj-text padding-top="0" color="#000" font-size="16px" line-height="19px" font-family="'PracticeBook',Georgia,serif;">
+                    Why everyone is playing with ChatGPT and Lensa, the new sensations in A.I.
+                </mj-text>
+                <mj-text font-size="12px"font-weight="700" letter-spacing=".6px" line-height="12px" color="#7c7c7c" font-family="'ProximaNovaBold',Helvetica,sans-serif;">
+                    THE WALL STREET JOURNAL arrow
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="0" background-color="#fff">
+            <mj-column>
+                <mj-include path="./components/grey-line.mjml" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="0" background-color="#fff">
+            <mj-column>
+                <mj-text letter-spacing=".6px" line-height="18px" font-weight="700" font-size="16px" font-family="'ProximaNovaBlack',Helvetica,sans-serif;">
+                    SOCIAL MEDIA
+                </mj-text>
+                <mj-include path="./components/single-red-line.mjml" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="0" background-color="#fff">
+            <mj-column>
+                <mj-image padding-top="0" src="https://i.postimg.cc/pdRGRgy0/family.jpg" alt="" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="0" background-color="#fff">
+            <mj-column>
+                <mj-image padding-top="0" align="left" width="88px" height="17px" src="https://i.postimg.cc/ydfrfv1L/news.png" alt="" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#fff">
+            <mj-column>
+                <mj-text font-family="'DrukTextMedium',Helvetica,sans-serif;" padding-top="0">
+                    <a style="color:#000;font-size:36px;font-weight:700;line-height:36px;text-decoration:none" href="https://apple.news/PQzeocL_EdAFyCRggEcXID7?articleList=A7DIXcEggRCyFAdE_LcoezQ,AS7Cxtap6QJurSj30xCHaZg,AHcZnnMuZQY-Rt0UGPZTA7A,ArHxYSRqkSGOaevf-EAP07g,AlqHrImpDSg6b55hB3inHJQ,AkDYk5LpYSteae_o7ABuu6w,ARhKUtLuCRAqVmAP9Wx9Y8A&amp;campaign_id=E106&amp;campaign_type=6234b017-f5ea-4398-beef-054fba12a444&amp;creative_id=daily_cover_story-3:coverStory">TikTok’s viral challenges keep luring young kids to their deaths</a>
+                </mj-text>
+                <mj-text color="#000" font-size="16px" line-height="19px" font-family="'PracticeBook',Georgia,serif;">
+                    Children are dying from the ‘blackout challenge.’ Why isn’t the world’s most popular app doing more to protect them?
+                </mj-text>
+                <mj-text font-size="12px"font-weight="700" letter-spacing=".6px" line-height="12px" color="#7c7c7c" font-family="'ProximaNovaBold',Helvetica,sans-serif;">
+                    BLOOMBERG BUSINESSWEEK
+                </mj-text>
+                <mj-include path="./components/grey-line.mjml" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#fff">
+            <mj-column>
+                <mj-image src="https://i.postimg.cc/0ygXH6v1/stay.jpg" alt="" />
+            </mj-column>
+        </mj-section>
+        <mj-include path="./components/footer.mjml" />
+        
+        
+    </mj-body>
+</mjml>

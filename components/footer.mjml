@@ -1,0 +1,26 @@
+<mj-raw>
+    <!-- footer -->
+</mj-raw>
+<mj-section background-color="#f0f1f2">
+            <mj-column>
+                <mj-image height="30px" width="30px" align="center" src="https://i.postimg.cc/vTc2CfDb/N-pic.png" alt="" />
+                <mj-text padding-top="0" align="center" font-size="12px" color="#666" font-family="'SFProTextMedium',Helvetica,sans-serif;">
+                    *New subscribers only. $12.99/month after trial. No commitment. Plan automatically renews until cancelled. Some content requires specific hardware or software. Internet access required; data fees may apply. Content availability is subject to change. For more information, click here.
+                </mj-text>
+                <mj-text padding-top="0" align="center" font-size="12px" color="#666" font-family="'SFProTextMedium',Helvetica,sans-serif;">
+                    Copyright © 2022  Apple Canada Inc. 120 Bremner Boulevard, Suite 1600, Toronto, ON M5J 0A8
+                </mj-text>
+
+            </mj-column>
+            
+        </mj-section>
+        <mj-section background-color="#f0f1f2" padding="0">
+            <mj-column padding="0">
+                <mj-text font-family="'SFProTextMedium',Helvetica,sans-serif;" font-size="12px" align="center">
+                <a href="#" class="footer-links">Privacy policy</a> | <a href="#" class="footer-links">Terms & conditions</a> | <a href="#" class="footer-links"> Support</a> | <a href="#" class="footer-links"> Account</a> 
+                </mj-text>
+                <mj-text align="center" font-size="12px" color="#666" font-family="'SFProTextMedium',Helvetica,sans-serif;">
+                    If you prefer not to receive this newsletter, you can unsubscribe. You’ll stop receiving all newsletters from the Apple News editors.
+                </mj-text>
+            </mj-column>
+        </mj-section>
